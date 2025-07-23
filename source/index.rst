@@ -11,3 +11,6 @@
    :caption: 章节目录
 
    cha0/index
+   cha1/index
+   cha2/index
+

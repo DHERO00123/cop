@@ -38,3 +38,25 @@
 
 运算器的基本组成
 -----------------------
+
+    .. image:: ../images/image6.png
+        :alt: 主存储器
+        :width: 600px
+        :align: center
+    
+    
+    .. image:: ../images/image7.png
+        :alt: 主存储器
+        :width: 600px
+        :align: center
+    
+    .. image:: ../images/image8.png
+        :alt: 主存储器
+        :width: 600px
+        :align: center
+    
+    .. image:: ../images/image9.png
+        :alt: 主存储器
+        :width: 600px
+        :align: center
+    

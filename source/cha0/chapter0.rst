@@ -30,6 +30,10 @@
 
   * 5. **机器以运算器为中心** ，输入输出设备与存储器间的数据传送都通过运算器
 
+  .. image:: ../images/c.png
+      :alt: 计算机系统层次图
+      :width: 600px
+      :align: center
 
   .. image:: ../images/image1.png
       :alt: 机器以运算器为中心的机器结构

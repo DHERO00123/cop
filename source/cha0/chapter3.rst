@@ -9,5 +9,11 @@
    ..    :label: eq-long-formula2
 
 
-计算机系统的组成
+计算机系统的层次结构
 ====================
+
+   .. image:: ../images/image13.png
+      :alt: 主存储器
+      :width: 600px
+      :align: center
+    
