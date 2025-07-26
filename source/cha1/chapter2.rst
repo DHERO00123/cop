@@ -8,22 +8,35 @@
    .. .. math::
    ..    :label: eq-long-formula2
 
-
-计算机软件
+逻辑门电路
 ====================
 
-   .. image:: ../images/image10.png
-      :alt: 主存储器
-      :width: 600px
-      :align: center
-   
-   .. image:: ../images/image11.png
-      :alt: 主存储器
-      :width: 600px
-      :align: center
-    
-   .. image:: ../images/image12.png
-      :alt: 主存储器
-      :width: 600px
-      :align: center
-    
+基本门电路
+------------------------
+
+.. image:: ../images/image23.png
+   :alt: 基本门电路
+   :width: 800px
+   :align: center
+
+
+多路选择器
+--------------------------------
+
+.. image:: ../images/image37.png
+   :alt: 多路选择器
+   :width: 800px
+   :align: center
+
+**作用** ： 在多个输入的数据中，选择其中一个数据通过MUX.
+
+
+三态门
+----------------------
+
+.. image:: ../images/image38.png
+   :alt: 三态门
+   :width: 800px
+   :align: center
+
+**作用**: 根据控制信号决定是否让输入数据通过
